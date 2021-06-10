@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228453423930",
+    "project_id": "fidelity-pfe2020",
+    "storage_bucket": "fidelity-pfe2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228453423930:android:d33871c462ffba68248e03",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228453423930-rsrhiaoi0bsrns289gj7p82gbm6use2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_5Kd49OGzENlHPPYgpHYaxOEfm-L6KlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228453423930-rsrhiaoi0bsrns289gj7p82gbm6use2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
